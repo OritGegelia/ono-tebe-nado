@@ -56,6 +56,12 @@ body {
     max-width: 240px;
 }
 
+.header__address {
+    line-height: 135%;
+    list-style-type: none;
+    max-width: 240px;
+}
+
 /* Cover */
 
 .overlay {
