@@ -271,6 +271,7 @@ body {
     border-radius: 120px;
     width: 240px;
     height: 240px;
+    justify-self: center;
 
     display: flex;
     justify-content: center;
