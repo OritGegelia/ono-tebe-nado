@@ -5,7 +5,7 @@
     grid-template-columns: repeat(3, 1fr);
     align-items: center;
     box-sizing: border-box;
-    padding: 95px 50px;
+    padding: 92px 50px 96px;
     color: #000;
     font-size: 18px;
     font-weight: 400;
@@ -85,7 +85,7 @@
     gap: 20px;
 
     box-sizing: border-box;
-    padding: 170px 50px 50px;
+    padding: 160px 50px 50px;
 
     position: relative;
     z-index: 1;
@@ -346,7 +346,7 @@
 }
 
 .footer__menu-link_active {
-   text-decoration: none ; 
+   text-decoration: none;
 }
 
 .footer__menu-link {
